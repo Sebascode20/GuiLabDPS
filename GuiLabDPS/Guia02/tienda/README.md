@@ -21,7 +21,7 @@ npm install
 npm run dev
 
 2. Abre tu navegador web y visita [http://localhost:5173] (http://localhost:5173).
-Deberías ver la aplicación de prueba de React en funcionamiento.
+Deberías ver la aplicación de la tienda en funcionamiento.
 
 ## Personalización Adicional
 - Si necesitas personalizar la configuración de Vite, edita el archivo vite.config.js en el directorio del proyecto.
