@@ -51,6 +51,9 @@ export const Header = ({
                         {product.quantity}
                       </span>
                       <p className="titulo-producto-carrito">{product.title}</p>
+                      <figure>
+                          <img src={product.urlImage}/>
+                      </figure>
                       <span className="precio-producto-carrito">
                         ${product.price}
                       </span>
