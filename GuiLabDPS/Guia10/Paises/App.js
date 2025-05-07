@@ -60,4 +60,4 @@ const styles = StyleSheet.create({
   contenido: {
     margin: '2.5%',
   }
-});
+}); 
